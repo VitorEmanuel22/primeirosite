@@ -1,0 +1,33 @@
+body {
+  background-image: linear-gradient(blue, lightblue, lightblue, darkgreen, brown, grey, grey, darkblue);
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+  -webkit-text-stroke: 1.0px black;
+  border-style: outset;
+  border-color: darkgreen;
+  padding: 10px
+}
+
+a {
+  color: darkgray;
+  border-style: solid;
+  border-color: black;
+  border-radius: 20px;
+  padding: 5px;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 250px;
+  border: 10px;
+  border-color: darkgreen;
+  border-style: solid;
+  border-radius: 20px;
+}
